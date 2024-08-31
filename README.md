@@ -1,3 +1,13 @@
+![GitHub Pipenv locked dependency version](https://img.shields.io/github/pipenv/locked/dependency-version/Abhinav330/Loan-Repayment-Analysis/matplotlib?color=red)
+![GitHub Pipenv locked dependency version](https://img.shields.io/github/pipenv/locked/dependency-version/Abhinav330/Loan-Repayment-Analysis/numpy?color=silver)
+![GitHub Pipenv locked dependency version](https://img.shields.io/github/pipenv/locked/dependency-version/Abhinav330/Loan-Repayment-Analysis/pandas?color=green)
+![GitHub Pipenv locked dependency version](https://img.shields.io/github/pipenv/locked/dependency-version/Abhinav330/Loan-Repayment-Analysis/scikit-learn?color=silver)
+![GitHub Pipenv locked dependency version](https://img.shields.io/github/pipenv/locked/dependency-version/Abhinav330/Loan-Repayment-Analysis/scipy?color=yellow)
+![GitHub Pipenv locked dependency version](https://img.shields.io/github/pipenv/locked/dependency-version/Abhinav330/Loan-Repayment-Analysis/seaborn?color=yellow)
+![GitHub Pipenv locked Python version](https://img.shields.io/github/pipenv/locked/python-version/Abhinav330/Loan-Repayment-Analysis?color=dark%20green)
+![GitHub repo size](https://img.shields.io/github/repo-size/Abhinav330/Loan-Repayment-Analysis)
+
+
 # Loan-Repayment-Analysis
 # Code Summary
 
